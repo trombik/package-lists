@@ -16,7 +16,6 @@ devel/git
 devel/libvirt
 devel/py-boto
 devel/py-molecule
-devel/py-molecule
 devel/py-pip
 devel/py-yamllint
 devel/rubygem-rake
@@ -79,17 +78,12 @@ x11-drivers/xf86-video-intel
 x11-drivers/xf86-video-scfb
 x11-drivers/xf86-video-vesa
 x11-fonts/cantarell-fonts
-x11-fonts/cantarell-fonts
 x11-fonts/droid-fonts-ttf
-x11-fonts/droid-fonts-ttf
-x11-fonts/font-misc-misc
 x11-fonts/font-misc-misc
 x11-fonts/gohufont
 x11-fonts/noto-basic
-x11-fonts/noto-basic
 x11-fonts/tlwg-ttf
 x11-fonts/xlsfonts
-x11-fonts/xorg-fonts
 x11-fonts/xorg-fonts
 x11-servers/xorg-server
 x11-wm/awesome
