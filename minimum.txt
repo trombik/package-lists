@@ -1,0 +1,6 @@
+devel/git
+editors/vim-console
+graphics/drm-current-kmod
+shells/zsh
+sysutils/tmux
+security/sudo

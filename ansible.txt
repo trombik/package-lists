@@ -1,0 +1,8 @@
+devel/git
+editors/vim-console
+ftp/curl
+lang/python3
+security/sudo
+shells/zsh
+sysutils/ansible
+sysutils/tmux
