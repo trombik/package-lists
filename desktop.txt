@@ -37,6 +37,7 @@ japanese/font-mplus-ipa
 japanese/scim-anthy
 java/openjdk8
 java/openjdk8-jre
+lang/go
 lang/python3
 mail/mutt
 multimedia/vlc
