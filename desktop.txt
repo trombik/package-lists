@@ -38,6 +38,7 @@ japanese/scim-anthy
 java/openjdk8
 java/openjdk8-jre
 lang/python3
+mail/mutt
 multimedia/vlc
 net/avahi-app
 net/bmon
@@ -65,6 +66,7 @@ sysutils/tmux
 sysutils/tree
 sysutils/vagrant
 sysutils/vmdktool
+textproc/en-aspell
 textproc/jq
 textproc/p5-ack
 www/nginx
